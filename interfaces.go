@@ -2,7 +2,7 @@ package go_package_manager
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/jackdes/go-package-management/common/logger"
+	"github.com/jackdes93/go-package-management/common/logger"
 )
 
 type Option func(*service)

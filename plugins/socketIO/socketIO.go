@@ -6,9 +6,9 @@ package socketIO
 //	"fmt"
 //	"github.com/gin-gonic/gin"
 //	socketio "github.com/googollee/go-socket.io"
-//	go_package_manager "github.com/jackdes/go-package-management"
-//	"github.com/jackdes/go-package-management/common"
-//	"github.com/jackdes/go-package-management/common/logger"
+//	go_package_manager "github.com/jackdes93/go-package-management"
+//	"github.com/jackdes93/go-package-management/common"
+//	"github.com/jackdes93/go-package-management/common/logger"
 //	"net/http"
 //)
 //

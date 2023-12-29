@@ -4,7 +4,7 @@ import (
 	"context"
 	"flag"
 	"github.com/go-redis/redis/v8"
-	"github.com/jackdes/go-package-management/common/logger"
+	"github.com/jackdes93/go-package-management/common/logger"
 )
 
 var (

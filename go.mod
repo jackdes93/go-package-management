@@ -1,4 +1,4 @@
-module github.com/jackdes/go-package-management
+module github.com/jackdes93/go-package-management
 
 go 1.20
 

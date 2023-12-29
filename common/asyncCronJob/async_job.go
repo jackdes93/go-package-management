@@ -3,7 +3,7 @@ package asyncCronJob
 import (
 	"context"
 	"errors"
-	"github.com/jackdes/go-package-management/common/logger"
+	"github.com/jackdes93/go-package-management/common/logger"
 	"time"
 )
 

@@ -2,7 +2,7 @@ package httpserver
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/jackdes/go-package-management/common/logger"
+	"github.com/jackdes93/go-package-management/common/logger"
 	"sync"
 )
 
